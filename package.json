@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "node-wifi-scanner": "^1.0.0"
+  }
+}
